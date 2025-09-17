@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit
+ollama
+pillow
+pandas
+
+# Additional utilities
+python-dotenv
+requests
+numpy
+matplotlib
+seaborn
+
+# Development and testing (optional)
+pytest
+black
+flake8
+mypy
+
+# Performance optimization
+cachetools
+psutil
+
+# Logging and monitoring
+loguru
