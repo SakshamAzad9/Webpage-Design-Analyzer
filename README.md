@@ -1,8 +1,10 @@
-# Webpage-Design-Analyzer
-
 # 🎨 Webpage Design Analyzer
 
 A simple AI-powered webpage design analysis tool using LLaVA vision models through Ollama. Upload webpage screenshots and get comprehensive design feedback, suggestions, and analysis.
+
+<p align="center">
+  <img src="thumbnail_uiaz.png" alt="Webpage-Design-Analyzer" width="700"/>
+</p>
 
 ## ✨ Features
 
